@@ -74,7 +74,7 @@ finance_project/
 ---
 
 # Author
-Dhriti  
+Dhritisree Bhamidipati
 Rutgers University — Data Science on the Economics Track
 
 
